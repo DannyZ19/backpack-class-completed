@@ -1,0 +1,15 @@
+C:\Users\d.zahiroddini\source\repos\C SHARP BACKPACK CLASS FINAL\C SHARP BACKPACK CLASS FINAL\bin\Debug\net6.0\C SHARP BACKPACK CLASS FINAL.exe
+C:\Users\d.zahiroddini\source\repos\C SHARP BACKPACK CLASS FINAL\C SHARP BACKPACK CLASS FINAL\bin\Debug\net6.0\C SHARP BACKPACK CLASS FINAL.deps.json
+C:\Users\d.zahiroddini\source\repos\C SHARP BACKPACK CLASS FINAL\C SHARP BACKPACK CLASS FINAL\bin\Debug\net6.0\C SHARP BACKPACK CLASS FINAL.runtimeconfig.json
+C:\Users\d.zahiroddini\source\repos\C SHARP BACKPACK CLASS FINAL\C SHARP BACKPACK CLASS FINAL\bin\Debug\net6.0\C SHARP BACKPACK CLASS FINAL.dll
+C:\Users\d.zahiroddini\source\repos\C SHARP BACKPACK CLASS FINAL\C SHARP BACKPACK CLASS FINAL\bin\Debug\net6.0\ref\C SHARP BACKPACK CLASS FINAL.dll
+C:\Users\d.zahiroddini\source\repos\C SHARP BACKPACK CLASS FINAL\C SHARP BACKPACK CLASS FINAL\bin\Debug\net6.0\C SHARP BACKPACK CLASS FINAL.pdb
+C:\Users\d.zahiroddini\source\repos\C SHARP BACKPACK CLASS FINAL\C SHARP BACKPACK CLASS FINAL\obj\Debug\net6.0\C SHARP BACKPACK CLASS FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.zahiroddini\source\repos\C SHARP BACKPACK CLASS FINAL\C SHARP BACKPACK CLASS FINAL\obj\Debug\net6.0\C SHARP BACKPACK CLASS FINAL.AssemblyInfoInputs.cache
+C:\Users\d.zahiroddini\source\repos\C SHARP BACKPACK CLASS FINAL\C SHARP BACKPACK CLASS FINAL\obj\Debug\net6.0\C SHARP BACKPACK CLASS FINAL.AssemblyInfo.cs
+C:\Users\d.zahiroddini\source\repos\C SHARP BACKPACK CLASS FINAL\C SHARP BACKPACK CLASS FINAL\obj\Debug\net6.0\C SHARP BACKPACK CLASS FINAL.csproj.CoreCompileInputs.cache
+C:\Users\d.zahiroddini\source\repos\C SHARP BACKPACK CLASS FINAL\C SHARP BACKPACK CLASS FINAL\obj\Debug\net6.0\C SHARP BACKPACK CLASS FINAL.dll
+C:\Users\d.zahiroddini\source\repos\C SHARP BACKPACK CLASS FINAL\C SHARP BACKPACK CLASS FINAL\obj\Debug\net6.0\ref\C SHARP BACKPACK CLASS FINAL.dll
+C:\Users\d.zahiroddini\source\repos\C SHARP BACKPACK CLASS FINAL\C SHARP BACKPACK CLASS FINAL\obj\Debug\net6.0\C SHARP BACKPACK CLASS FINAL.pdb
+C:\Users\d.zahiroddini\source\repos\C SHARP BACKPACK CLASS FINAL\C SHARP BACKPACK CLASS FINAL\obj\Debug\net6.0\C SHARP BACKPACK CLASS FINAL.genruntimeconfig.cache
+C:\Users\d.zahiroddini\source\repos\C SHARP BACKPACK CLASS FINAL\C SHARP BACKPACK CLASS FINAL\obj\Debug\net6.0\C SHARP BACKPACK CLASS FINAL.csproj.AssemblyReference.cache
